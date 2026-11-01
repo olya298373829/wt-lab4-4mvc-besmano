@@ -17,7 +17,6 @@ C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\wt-lab4-4mvc-besman.RazorAsse
 C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\scopedcss\bundle\wt-lab4-4mvc-besman.styles.css
 C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\scopedcss\projectbundle\wt-lab4-4mvc-besman.bundle.scp.css
-C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\compressed\rwkbrmewsg-b9sayid5wm.gz
 C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\compressed\v6lxj2ajj9-61n19gt1b8.gz
 C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\compressed\yrxhoxg7ph-xtxxf3hu2r.gz
 C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\compressed\gwk9n9ylfi-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\refint\wt-lab4-4mvc-besman.dl
 C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\wt-lab4-4mvc-besman.pdb
 C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\wt-lab4-4mvc-besman.genruntimeconfig.cache
 C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\ref\wt-lab4-4mvc-besman.dll
+C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\wt-lab4-4mvc-besman.sourcelink.json
+C:\Users\user\wt-lab4-4mvc-besman\obj\Debug\net9.0\compressed\rwkbrmewsg-t1psifflo7.gz
